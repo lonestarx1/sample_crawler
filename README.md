@@ -15,4 +15,4 @@ Requirements:
 
 Running the script
 1. Open your terminal and navigate to the directly where the script is located
-2. then type: python3 vip_travel_scrapper.py
+2. Then type: python3 vip_travel_scrapper.py
