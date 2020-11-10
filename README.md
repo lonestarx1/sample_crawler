@@ -1,5 +1,5 @@
 # sample_crawler
-A sample crawler for the webpage: https://www.vviptravel.com/tours written for the purpose of Interview with STORICITY
+A sample crawler for the webpage: https://www.vviptravel.com/tours written for the purpose of Interviewing with STORICITY
 
 ## THIS CRAWLER BASICALLY DOES THE FOLLOWING:
   1. Visit the page https://www.vviptravel.com/tours and parse its html using BeautifulSoup Libraly
